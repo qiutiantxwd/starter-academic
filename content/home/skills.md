@@ -1,8 +1,8 @@
 +++
 # A Skills section created with the Featurette widget.
-widget = "hidden"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "skills"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
 title = "Skills"
@@ -15,16 +15,16 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  icon = "code"
+  icon_pack = "fas"
+  name = "Programming"
+  description = "C++, Python, MATLAB, Shell"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "Machine Learning"
+  description = "Tensorflow, Pytorch"  
   
 [[feature]]
   icon = "camera-retro"
