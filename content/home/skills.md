@@ -41,7 +41,7 @@ subtitle = ""
 [[feature]]
   icon = "photo-video"
   icon_pack = "fas"
-  name = "Image&Video Codec"
+  name = "Video Encoding"
   description = "FFmpeg, H.264, HEVC "
 
 # Uncomment to use emoji icons.
