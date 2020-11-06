@@ -26,8 +26,11 @@ education:
     institution: UC San Diego 
     year: 2019-
   - course: BEng in Electrical Engineering
+    institution: Australian National University
+    year: 2017-2019
+  - course: BEng in Electrical Engineering
     institution: Beijing Institute of Technology
-    year: 2019
+    year: 2015-2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
