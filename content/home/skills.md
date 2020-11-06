@@ -18,7 +18,7 @@ subtitle = ""
   icon = "code"
   icon_pack = "fas"
   name = "Programming"
-  description = "C++, Python, MATLAB, Shell"
+  description = "C++, Python, MATLAB"
   
 [[feature]]
   icon = "chart-line"
@@ -30,13 +30,19 @@ subtitle = ""
   icon = "laptop"
   icon_pack = "fas"
   name = "Web Development"
-  description = "HTML, CSS, "  
+  description = "HTML, CSS, JavaScript"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "tools"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Tools"
+  description = "Bash, Git, Xcode, Jupyter"
+  
+[[feature]]
+  icon = "photo-video"
+  icon_pack = "fas"
+  name = "Image&Video Codec"
+  description = "FFmpeg, H.264, HEVC "
 
 # Uncomment to use emoji icons.
 # [[feature]]
