@@ -62,5 +62,5 @@ user_groups:
 - Visitors
 ---
 
-Tian is a second year MS student in EE at UC San Diego. His research interests include image processing, video compression and machine learning.
+Tian Qiu (邱天) is a second year MS student in EE at UC San Diego. His research interests include image processing, video compression and machine learning.
 
