@@ -21,7 +21,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Coursera"
   organization_url = "https://www.coursera.org"
-  title = "Deep Learning Specialiazation"
+  title = "Deep Learning Specialization"
   url = ""
   certificate_url = "https://coursera.org/share/d2c26d8590c019f32cea8c4c814afce2"
   date_start = "2019-01-05"
