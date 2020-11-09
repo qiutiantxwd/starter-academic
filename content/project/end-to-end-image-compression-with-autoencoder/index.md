@@ -8,7 +8,10 @@ summary: We trained an end-to-end image compression model convolutional
   efficiency.
 draft: false
 featured: true
-external_link: https://github.com/qiutiantxwd/eigenface_JAFFE
+external_link: .
+links:
+  - name: Slides
+    url: CAE_slides.pdf
 image:
   filename: featured.png
   focal_point: Smart
