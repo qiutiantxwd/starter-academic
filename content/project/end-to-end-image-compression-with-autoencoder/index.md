@@ -12,6 +12,8 @@ external_link: .
 links:
   - name: Slides
     url: CAE_compression_slides.pdf
+    icon_pack: far
+    icon: file-pdf
 image:
   filename: featured.png
   focal_point: Smart
