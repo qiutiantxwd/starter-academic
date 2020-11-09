@@ -17,7 +17,7 @@ links:
 image:
   filename: featured.png
   focal_point: Smart
-  preview_only: false
+  preview_only: true
   caption: Sample image before and after compression
 ---
 # Introduction
