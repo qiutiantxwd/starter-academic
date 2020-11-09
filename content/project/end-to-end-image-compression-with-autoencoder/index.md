@@ -11,7 +11,7 @@ featured: true
 external_link: .
 links:
   - name: Slides
-    url: CAE_slides.pdf
+    url: CAE_compression_slides.pdf
 image:
   filename: featured.png
   focal_point: Smart
